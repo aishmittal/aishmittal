@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-I'm Aishwarya Mittal. I currently work as Software Developemnt Engineer at Adobe Systems, Noida. I have done B.Tech in Electrical Engineering (Major) and Computer Science (Minor) from IIT Roorkee in 2018. 
+I'm Aishwarya Mittal. I currently work as Software Developemnt Engineer at Google, Bangalore. I have done B.Tech in Electrical Engineering (Major) and Computer Science (Minor) from IIT Roorkee in 2018. 
 
 - 🔭 I’m currently working on Software Development
 - 🌱 I’m currently learning Deep Learning
